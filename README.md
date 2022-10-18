@@ -1,4 +1,4 @@
-# Hi there, I'm Faisal 👋
+# Hi there, I'm Faisal Mujeeb 👋
 
 <!--
 **faisal-mujeeb/faisal-mujeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
