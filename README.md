@@ -1,5 +1,5 @@
 # Hi there, I'm Faisal Mujeeb  👋
-Computer Science engineering Student
+
 
 <!--
 **faisal-mujeeb/faisal-mujeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
