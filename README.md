@@ -1,4 +1,4 @@
-# Hi there, I'm Faisal    👋
+# Hi there, I'm Faisal Mujeeb   👋
 🔭 I’m currently working on web dev and devops...
 📫 How to reach me: twitter @iamfaisalmujeeb
 <!--
