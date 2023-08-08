@@ -1,4 +1,5 @@
 # Hi there, I'm Faisal Mujeeb   👋
+# Full Stack Developer from India 
 🔭 I’m currently working on backend and devops...
 - 🌱 I’m currently learning backend..
 -📫 How to reach me: twitter @iamfaisalmujeeb
